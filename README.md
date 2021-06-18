@@ -16,8 +16,9 @@
   are used to create some of the components
 
   Components
-  i. articlefeed - displays a list of articles with bried information
-  ii. articledetails - displays brief details of the selected article
+
+  - articlefeed - displays a list of articles with bried information
+  - articledetails - displays brief details of the selected article
 
 - Hooks
   - useFetch is a custom hook in hooks directory in src directory
